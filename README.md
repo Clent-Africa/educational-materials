@@ -21,7 +21,7 @@ This repository contains:
 The purpose of this repository is to:
 - Educate the public, volunteers, and partners on topics related to CLENT Africa’s mission and focus areas.
 - Provide accessible and informative resources that can be used for training and awareness programs.
-- Support the dissemination of knowledge on climate change, energy, environment, gender equality, and technology.
+- Support the dissemination of knowledge on climate change, energy, environment, gender equality, sustainable consumption and production.
 
 By compiling these educational materials, we aim to empower individuals and communities with the knowledge and skills needed to contribute to sustainable development and address key challenges in Africa.
 
